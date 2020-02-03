@@ -1,0 +1,10 @@
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/bin/Debug/netcoreapp3.1/EvidenciaU1
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/bin/Debug/netcoreapp3.1/EvidenciaU1.deps.json
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/bin/Debug/netcoreapp3.1/EvidenciaU1.runtimeconfig.json
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/bin/Debug/netcoreapp3.1/EvidenciaU1.runtimeconfig.dev.json
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/bin/Debug/netcoreapp3.1/EvidenciaU1.dll
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/bin/Debug/netcoreapp3.1/EvidenciaU1.pdb
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/obj/Debug/netcoreapp3.1/EvidenciaU1.AssemblyInfoInputs.cache
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/obj/Debug/netcoreapp3.1/EvidenciaU1.AssemblyInfo.cs
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/obj/Debug/netcoreapp3.1/EvidenciaU1.dll
+/Users/marianalicona/Projects/EvidenciaU1/EvidenciaU1/obj/Debug/netcoreapp3.1/EvidenciaU1.pdb
