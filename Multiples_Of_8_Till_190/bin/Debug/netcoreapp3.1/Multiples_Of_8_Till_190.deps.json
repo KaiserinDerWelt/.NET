@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Multiples_Of_8_Till_190/1.0.0": {
+        "runtime": {
+          "Multiples_Of_8_Till_190.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiples_Of_8_Till_190/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

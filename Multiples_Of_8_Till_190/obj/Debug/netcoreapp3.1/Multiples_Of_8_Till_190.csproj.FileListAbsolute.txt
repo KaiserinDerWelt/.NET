@@ -1,0 +1,11 @@
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/obj/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.AssemblyInfoInputs.cache
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/obj/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.AssemblyInfo.cs
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/bin/Debug/netcoreapp3.1/Multiples_Of_8_Till_190
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/bin/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.deps.json
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/bin/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.runtimeconfig.json
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/bin/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.runtimeconfig.dev.json
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/bin/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.dll
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/bin/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.pdb
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/obj/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.dll
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/obj/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.pdb
+/Users/marianalicona/Projects/Multiples_Of_8_Till_190/Multiples_Of_8_Till_190/obj/Debug/netcoreapp3.1/Multiples_Of_8_Till_190.csprojAssemblyReference.cache
