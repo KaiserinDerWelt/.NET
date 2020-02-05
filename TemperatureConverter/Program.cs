@@ -50,7 +50,6 @@ namespace EvidenciaU1
                     {
                         // Console.WriteLine("Funciona"); Probando mi condicional
                         Main(args); //Devuelve a inicio del programa.
-
                     }
                     else
                     {
@@ -71,7 +70,6 @@ namespace EvidenciaU1
                     {
                         // Console.WriteLine("Funciona"); Probando mi condicional
                         Main(args); //Devuelve a inicio del programa.
-
                     }
                     else
                     {
