@@ -1,0 +1,10 @@
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/bin/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/bin/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.deps.json
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/bin/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.runtimeconfig.json
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/bin/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.runtimeconfig.dev.json
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/bin/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.dll
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/bin/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.pdb
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/obj/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.AssemblyInfoInputs.cache
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/obj/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.AssemblyInfo.cs
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/obj/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.dll
+/Users/marianalicona/Projects/DPRN1_U2_A2_MALA/DPRN1_U2_A2_MALA/obj/Debug/netcoreapp3.1/DPRN1_U2_A2_MALA.pdb
