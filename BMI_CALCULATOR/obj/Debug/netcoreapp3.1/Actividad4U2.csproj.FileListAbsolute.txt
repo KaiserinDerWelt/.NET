@@ -1,0 +1,10 @@
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/bin/Debug/netcoreapp3.1/Actividad4U2
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/bin/Debug/netcoreapp3.1/Actividad4U2.deps.json
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/bin/Debug/netcoreapp3.1/Actividad4U2.runtimeconfig.json
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/bin/Debug/netcoreapp3.1/Actividad4U2.runtimeconfig.dev.json
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/bin/Debug/netcoreapp3.1/Actividad4U2.dll
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/bin/Debug/netcoreapp3.1/Actividad4U2.pdb
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/obj/Debug/netcoreapp3.1/Actividad4U2.AssemblyInfoInputs.cache
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/obj/Debug/netcoreapp3.1/Actividad4U2.AssemblyInfo.cs
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/obj/Debug/netcoreapp3.1/Actividad4U2.dll
+/Users/marianalicona/Projects/Actividad4U2/Actividad4U2/obj/Debug/netcoreapp3.1/Actividad4U2.pdb
