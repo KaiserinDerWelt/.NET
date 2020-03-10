@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using CalculadoraSalario;
 
 namespace CalculadoraSalario {   //Creacion Clase Salario
@@ -7,7 +7,7 @@ namespace CalculadoraSalario {   //Creacion Clase Salario
         public string ID;
         public string Nombre;
         public string Departamento;
-        public double HorasTrabajadas;
+        public double Horas;
         public double TarifaHora;
         public double HorasExtra;
 
@@ -16,7 +16,7 @@ namespace CalculadoraSalario {   //Creacion Clase Salario
             Console.WriteLine("Another Assignment for my Github by KaiserinDerWelt" + DateTime.Now);
         }
          //Me-to-do que Calcula el Salario
-            public double SalarioCalculo(int Horas){
+            public double SalarioCalculo(double Horas){
                 double SalarioCalculo;
                 double SalarioAdicional = 0;
                 if (Horas <= 80){
@@ -32,16 +32,18 @@ namespace CalculadoraSalario {   //Creacion Clase Salario
     //Creacion de Me-to-do de Calculo Total de Salario restando porcentajes de Impuesto,Caja,Seguro
     public double Quincena(double SalarioCalculo, double SalarioAdicional){
         double Quincena;
-            Quincena = (SalarioCalculo + SalarioAdicional * (100)) / 10;
+            double CalculoRetenciones;
+            CalculoRetenciones= (SalarioCalculo + SalarioAdicional * (100)) / 10;
+            Quincena = (SalarioCalculo + SalarioAdicional) - CalculoRetenciones;
         return Quincena;
     }
 
     class Program
     {
         static void Main(string[] args) {
-            //Llamado de clase  Instanciada
-            Salarios SalarioInstanciado;
-            //Inputs de Usuario por Teclado
+                //Llamado de clase  Instanciada
+                Salarios SalarioInstanciado;
+                      //Inputs de Usuario por Teclado
             Console.WriteLine("Bienvenido al Programa de Nomina");
             SalarioInstanciado = new Salarios();
             Console.WriteLine("Ingrese la Informacion Solicitada");
@@ -52,14 +54,16 @@ namespace CalculadoraSalario {   //Creacion Clase Salario
             Console.WriteLine("Ingrese Departamento");
             SalarioInstanciado.Departamento = Console.ReadLine();
             Console.WriteLine("Ingrese las Horas Trabajadas Quincenalmente");
-            //Parse Me-to-do para dato tipo double + Me-to-do Input
-            SalarioInstanciado.HorasTrabajadas = double.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese la Tarifa por Hora: ($125 Pesos)");
+                var SalarioCalculo = SalarioInstanciado.SalarioCalculo(Int32.Parse(Console.ReadLine()));
+                var Quincena = SalarioInstanciado.Quincena(SalarioCalculo);
+                //SalarioInstanciado.Horas = double.Parse(Console.ReadLine());
+                Console.WriteLine("Ingrese la Tarifa por Hora: ($125 Pesos)");
             //Parse Me-to-do para dato tipo double + Me-to-do Input
             SalarioInstanciado.TarifaHora = double.Parse(Console.ReadLine());
             Console.WriteLine("Ingresa las Horas Extras Trabajadas:");
             SalarioInstanciado.HorasExtra = double.Parse(Console.ReadLine());
-                //Bloque Switch para eleccion de Sexo
+                //I WANT TO CALL THE METHOD "Quincena" TO PRINT IT IN LINE 78!!
+             //Bloque Switch para eleccion de Sexo
                 Console.WriteLine("Elige tu Sex: Presiona 1 para Hombre, 2 para Mujer");
             int ValorSexo;
             ValorSexo = int.Parse(Console.ReadLine()); //Parse for Int
@@ -70,11 +74,10 @@ namespace CalculadoraSalario {   //Creacion Clase Salario
                     break;
             }
                 //Output del Programa usando DOT Notation
-                Console.WriteLine("ID: " + SalarioInstanciado.ID + " " + "Nombre: " + SalarioInstanciado.Nombre + " " + "Departamento:" + SalarioInstanciado.Departamento);
-                Console.WriteLine("Su Quincena Neta con Descuento de Impuestos, Caja de Ahorro y Seguro Social es de: ");
+                Console.WriteLine("ID: " + SalarioInstanciado.ID + " " + "Nombre: " + SalarioInstanciado.Nombre + " " + "Departamento: " + SalarioInstanciado.Departamento);
+                Console.WriteLine("Pago Quincenal: "); //I WANT TO PRINT IT HERE
                 Console.Write("Gracias por Trabajar con Nosotros");
-
     }
-    }
+        }
 }
 }
