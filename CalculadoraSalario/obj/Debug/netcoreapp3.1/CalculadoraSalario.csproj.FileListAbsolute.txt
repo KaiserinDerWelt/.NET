@@ -1,0 +1,10 @@
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/bin/Debug/netcoreapp3.1/CalculadoraSalario
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/bin/Debug/netcoreapp3.1/CalculadoraSalario.deps.json
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/bin/Debug/netcoreapp3.1/CalculadoraSalario.runtimeconfig.json
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/bin/Debug/netcoreapp3.1/CalculadoraSalario.runtimeconfig.dev.json
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/bin/Debug/netcoreapp3.1/CalculadoraSalario.dll
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/bin/Debug/netcoreapp3.1/CalculadoraSalario.pdb
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/obj/Debug/netcoreapp3.1/CalculadoraSalario.AssemblyInfoInputs.cache
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/obj/Debug/netcoreapp3.1/CalculadoraSalario.AssemblyInfo.cs
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/obj/Debug/netcoreapp3.1/CalculadoraSalario.dll
+/Users/marianalicona/Projects/CalculadoraSalario/CalculadoraSalario/obj/Debug/netcoreapp3.1/CalculadoraSalario.pdb
