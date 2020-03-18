@@ -12,7 +12,7 @@ public double Weight;
 
 //2)Instantiation of a class to use it as a concrete object
 
-ClassName VariableName = new ClassName ("Value1, "Value 2", "Value3");
+ VariableName = new ClassName ("Value1, "Value 2", "Value3");
 
 //3) DOT NOTATION
 
