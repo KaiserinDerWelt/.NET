@@ -1,0 +1,11 @@
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/obj/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.csprojAssemblyReference.cache
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/obj/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.AssemblyInfoInputs.cache
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/obj/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.AssemblyInfo.cs
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/bin/Debug/netcoreapp3.1/EvaluacionNumerosPrimos
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/bin/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.deps.json
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/bin/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.runtimeconfig.json
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/bin/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.runtimeconfig.dev.json
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/bin/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.dll
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/bin/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.pdb
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/obj/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.dll
+/Users/marianalicona/Projects/EvaluacionNumerosPrimos/EvaluacionNumerosPrimos/obj/Debug/netcoreapp3.1/EvaluacionNumerosPrimos.pdb
