@@ -1,0 +1,11 @@
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/bin/Debug/netcoreapp3.1/TicketsForFootbalGame
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/bin/Debug/netcoreapp3.1/TicketsForFootbalGame.deps.json
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/bin/Debug/netcoreapp3.1/TicketsForFootbalGame.runtimeconfig.json
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/bin/Debug/netcoreapp3.1/TicketsForFootbalGame.runtimeconfig.dev.json
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/bin/Debug/netcoreapp3.1/TicketsForFootbalGame.dll
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/bin/Debug/netcoreapp3.1/TicketsForFootbalGame.pdb
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/obj/Debug/netcoreapp3.1/TicketsForFootbalGame.csprojAssemblyReference.cache
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/obj/Debug/netcoreapp3.1/TicketsForFootbalGame.AssemblyInfoInputs.cache
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/obj/Debug/netcoreapp3.1/TicketsForFootbalGame.AssemblyInfo.cs
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/obj/Debug/netcoreapp3.1/TicketsForFootbalGame.dll
+/Users/marianalicona/Projects/TicketsForFootbalGame/TicketsForFootbalGame/obj/Debug/netcoreapp3.1/TicketsForFootbalGame.pdb
