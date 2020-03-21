@@ -32,7 +32,7 @@ namespace SportsStoreDiscountProgram
                     float R1;
                     FormulaUno = (PrecioBruto * 10) / 100;
                     R1 = PrecioBruto - FormulaUno;
-                     Console.WriteLine("Se aplica un 10% de Descuento");
+                    Console.WriteLine("Se aplica un 10% de Descuento");
                     Console.WriteLine("Su Total a Pagar es: " + R1 + " Pesos");
                
                 }
@@ -51,7 +51,7 @@ namespace SportsStoreDiscountProgram
                     float R3;
                     FormulaTres = (PrecioBruto * 20) / 100;
                     R3 = PrecioBruto - FormulaTres;
-                     Console.WriteLine("Se aplica un 20% de Descuento");
+                    Console.WriteLine("Se aplica un 20% de Descuento");
                     Console.WriteLine("Su Total a Pagar es: " + R3 + " Pesos");
                 }
 
@@ -75,6 +75,7 @@ namespace SportsStoreDiscountProgram
                var CalculoDescuentos = DescuentosInstanciados.CalculoDescuentos(DescuentosInstanciados.PrecioBruto);
                 //Impresion de Resultado.
                 Console.WriteLine("Gracias por Comprar en SportWelt"); 
+                Application.Exit(); // The user wants to exit the application. Close everything down.
         }
     }
 }
